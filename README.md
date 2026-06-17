@@ -96,9 +96,9 @@ The project covers Python fundamentals, NumPy, Pandas, Matplotlib, and Seaborn t
 * Matplotlib
 * Seaborn
 
-```text
-
 ## Project Structure
+
+```text
 
 Data-Science-Internship-Projects-Month-1/
 │
