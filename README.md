@@ -100,8 +100,7 @@ The project covers Python fundamentals, NumPy, Pandas, Matplotlib, and Seaborn t
 
 ## Project Structure
 
-```text
-month-1-python-basics-and-data-manipulation/
+Data-Science-Internship-Projects-Month-1/
 │
 ├── data/
 │   └── (empty)
@@ -138,7 +137,6 @@ month-1-python-basics-and-data-manipulation/
 │
 ├── requirements.txt
 └── README.md
-```
 
 ---
 
